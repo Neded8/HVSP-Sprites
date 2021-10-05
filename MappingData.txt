@@ -1,7 +1,6 @@
 {
   "data": [
     {
-      "branch": "master",
       "batCommand": "copy Sprites %SOURCE_FOLDER% /l"
     }
   ]
