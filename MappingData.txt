@@ -2,7 +2,7 @@
   "data": [
     {
       "batCommand": "copy Human %SOURCE_FOLDER% /l",
-      "shellCommand":"echo $SOURCE_FOLDER"
+      "shellCommand":"mv Human $SOURCE_FOLDER"
     }
   ]
 }
